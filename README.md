@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
-<h3 align="center">A self-motivated Backend Developep</h3>
+<h3 align="center">A self-motivated Backend Developer</h3>
 
 - 💬 Ask me about **Java, Dagger, and DynamoDb**
 
