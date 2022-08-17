@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **benwilson245@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1o5UzsTv1uZuYo-iCkhuy-GySf-AwOynE-xyAbcxbFTs/edit](https://docs.google.com/document/d/1o5UzsTv1uZuYo-iCkhuy-GySf-AwOynE-xyAbcxbFTs/edit)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1o5UzsTv1uZuYo-iCkhuy-GySf-AwOynE-xyAbcxbFTs/edit)
 
 - ⚡ Fun fact **I've been a beekeeper since 2015!**
 
